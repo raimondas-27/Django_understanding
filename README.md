@@ -1,5 +1,6 @@
 # Django_understanding
 Neded modules : 
 
-Django 
-sqlite
+Django; 
+sqlite;
+bootstrap;
