@@ -1,11 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="c20f872e-b5ec-48e0-abbc-c6bae6f8d039" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/trydjango/templates/base.html" beforeDir="false" afterPath="$PROJECT_DIR$/trydjango/templates/base.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/trydjango/templates/home.html" beforeDir="false" afterPath="$PROJECT_DIR$/trydjango/templates/home.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/trydjango/templates/navbar.html" beforeDir="false" afterPath="$PROJECT_DIR$/trydjango/templates/navbar.html" afterDir="false" />
-    </list>
+    <list default="true" id="c20f872e-b5ec-48e0-abbc-c6bae6f8d039" name="Default Changelist" comment="" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -104,6 +100,7 @@
       <workItem from="1606135306202" duration="739000" />
       <workItem from="1606221951971" duration="4178000" />
       <workItem from="1606329994628" duration="2797000" />
+      <workItem from="1606333690530" duration="355000" />
     </task>
     <servers />
   </component>
