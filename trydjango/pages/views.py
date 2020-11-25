@@ -19,7 +19,16 @@ def contact_view(request, *args, **kwargs):
 
 def about_view(request, *args, **kwargs):
     # return HttpResponse("<h1> This is my About page </h1>") #string with html code
-    return render(request, "about.html", {})
+    my_context = {
+        "title" : "This is about us",
+        "this_is_true" : True,
+        "my_number" : 123,
+        "my_list" : [123,456, 678, "abc"],
+        "my_html" : "<h1> Hello world </h1>"
+
+    }
+
+    return render(request, "about.html", my_context)
 
 
 def map_view(request, *args, **kwargs):
