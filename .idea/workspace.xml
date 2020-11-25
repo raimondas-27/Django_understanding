@@ -1,0 +1,147 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="c20f872e-b5ec-48e0-abbc-c6bae6f8d039" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/trydjango/templates/base.html" beforeDir="false" afterPath="$PROJECT_DIR$/trydjango/templates/base.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/trydjango/templates/home.html" beforeDir="false" afterPath="$PROJECT_DIR$/trydjango/templates/home.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/trydjango/templates/navbar.html" beforeDir="false" afterPath="$PROJECT_DIR$/trydjango/templates/navbar.html" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="HTML File" />
+        <option value="CSS File" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="JsFlowSettings">
+    <service-enabled>true</service-enabled>
+    <exe-path />
+    <other-services-enabled>true</other-services-enabled>
+    <auto-save>true</auto-save>
+  </component>
+  <component name="JupyterTrust" id="d7018b18-0e6b-4286-b467-89caca2f2410" />
+  <component name="ProjectId" id="1kQ3dQbCBSifoNjVRdml6OzZsD4" />
+  <component name="ProjectLevelVcsManager">
+    <ConfirmationsSetting value="1" id="Add" />
+  </component>
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="DefaultHtmlFileTemplate" value="HTML File" />
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="list.type.of.created.stylesheet" value="CSS" />
+    <property name="nodejs_package_manager_path" value="npm" />
+    <property name="settings.editor.selected.configurable" value="preferences.pluginManager" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/trydjango/templates" />
+    </key>
+  </component>
+  <component name="RunManager" selected="JavaScript Debug.home.html">
+    <configuration name="home.html" type="JavascriptDebugType" temporary="true" nameIsGenerated="true" uri="http://localhost:63342/Django_understanding/trydjango/templates/home.html" useBuiltInWebServerPort="true">
+      <method v="2" />
+    </configuration>
+    <configuration name="manage" type="PythonConfigurationType" factoryName="Python" nameIsGenerated="true">
+      <module name="Django_understanding" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/trydjango" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/trydjango/manage.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="JavaScript Debug.home.html" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="c20f872e-b5ec-48e0-abbc-c6bae6f8d039" name="Default Changelist" comment="" />
+      <created>1605619074535</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1605619074535</updated>
+      <workItem from="1605619087343" duration="7405000" />
+      <workItem from="1605722053804" duration="6562000" />
+      <workItem from="1605785121758" duration="15874000" />
+      <workItem from="1605881493913" duration="343000" />
+      <workItem from="1605882346135" duration="153000" />
+      <workItem from="1605884195931" duration="2949000" />
+      <workItem from="1606134359054" duration="873000" />
+      <workItem from="1606135306202" duration="739000" />
+      <workItem from="1606221951971" duration="4178000" />
+      <workItem from="1606329994628" duration="2797000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="181" y="79" width="1079" height="725" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1605714940452">
+      <screen x="0" y="25" width="1440" height="804" />
+    </state>
+    <state x="181" y="79" width="1079" height="725" key="#com.intellij.execution.impl.EditConfigurationsDialog/-1600.25.1600.875/0.25.1440.804@0.25.1440.804" timestamp="1605714940452" />
+    <state x="373" y="216" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1605619549362">
+      <screen x="0" y="25" width="1440" height="805" />
+    </state>
+    <state x="373" y="216" key="#com.intellij.fileTypes.FileTypeChooser/-1600.25.1600.875/0.25.1440.805@0.25.1440.805" timestamp="1605619549362" />
+    <state width="1388" height="191" key="GridCell.Tab.0.bottom" timestamp="1605730549948">
+      <screen x="0" y="25" width="1440" height="805" />
+    </state>
+    <state width="1388" height="191" key="GridCell.Tab.0.bottom/-1600.25.1600.875/0.25.1440.805@0.25.1440.805" timestamp="1605730549948" />
+    <state width="1388" height="191" key="GridCell.Tab.0.center" timestamp="1605730549948">
+      <screen x="0" y="25" width="1440" height="805" />
+    </state>
+    <state width="1388" height="191" key="GridCell.Tab.0.center/-1600.25.1600.875/0.25.1440.805@0.25.1440.805" timestamp="1605730549948" />
+    <state width="1388" height="191" key="GridCell.Tab.0.left" timestamp="1605730549947">
+      <screen x="0" y="25" width="1440" height="805" />
+    </state>
+    <state width="1388" height="191" key="GridCell.Tab.0.left/-1600.25.1600.875/0.25.1440.805@0.25.1440.805" timestamp="1605730549947" />
+    <state width="1388" height="191" key="GridCell.Tab.0.right" timestamp="1605730549948">
+      <screen x="0" y="25" width="1440" height="805" />
+    </state>
+    <state width="1388" height="191" key="GridCell.Tab.0.right/-1600.25.1600.875/0.25.1440.805@0.25.1440.805" timestamp="1605730549948" />
+    <state x="105" y="25" width="1201" height="805" key="SettingsEditor" timestamp="1606153393560">
+      <screen x="0" y="25" width="1440" height="804" />
+    </state>
+    <state x="105" y="25" width="1231" height="804" key="SettingsEditor/-1600.25.1600.875/0.25.1440.804@0.25.1440.804" timestamp="1606153393560" />
+    <state x="110" y="25" width="1201" height="805" key="SettingsEditor/-1600.25.1600.875/0.25.1440.805@0.25.1440.805" timestamp="1605881530496" />
+  </component>
+  <component name="com.intellij.coverage.CoverageDataManagerImpl">
+    <SUITE FILE_PATH="coverage/Django_understanding$manage.coverage" NAME="manage Coverage Results" MODIFIED="1605726602455" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/trydjango" />
+  </component>
+</project>
