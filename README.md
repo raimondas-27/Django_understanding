@@ -4,3 +4,4 @@ Neded modules :
 Django; 
 sqlite;
 bootstrap;
+fontawesome;
