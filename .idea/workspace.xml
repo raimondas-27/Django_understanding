@@ -20,8 +20,6 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="c20f872e-b5ec-48e0-abbc-c6bae6f8d039" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/trydjango/templates/home.html" beforeDir="false" afterPath="$PROJECT_DIR$/trydjango/templates/home.html" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -126,7 +124,7 @@
       <workItem from="1606333690530" duration="1078000" />
       <workItem from="1606471370160" duration="7000" />
       <workItem from="1606472128595" duration="58000" />
-      <workItem from="1606472196385" duration="10275000" />
+      <workItem from="1606472196385" duration="10529000" />
     </task>
     <servers />
   </component>
