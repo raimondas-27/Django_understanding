@@ -33,3 +33,8 @@ def about_view(request, *args, **kwargs):
 
 def map_view(request, *args, **kwargs):
     return HttpResponse("<h1> This is my map page </h1>") #string with html code
+
+
+def FAQ_view(request, *args, **kwargs):
+    # return HttpResponse("<h1> This is my Contact page </h1>") #string with html code
+    return render(request, "FAQ.html", {})

@@ -15,7 +15,7 @@ Including another URLconf
 """
 from django.contrib import admin
 from django.urls import path
-from pages.views import home_view, contact_view, about_view, map_view
+from pages.views import home_view, contact_view, about_view, map_view, FAQ_view
 from products.views import product_detail_view
 
 urlpatterns = [
@@ -25,5 +25,6 @@ urlpatterns = [
     path("about/", about_view),
     path("map/", map_view),
     path("product/", product_detail_view),
+    path("FAQ/", FAQ_view),
 
 ]

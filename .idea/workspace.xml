@@ -1,7 +1,29 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
+  <component name="BranchesTreeState">
+    <expand>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="LOCAL_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="GROUP_NODE:origin" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+    </expand>
+    <select />
+  </component>
   <component name="ChangeListManager">
-    <list default="true" id="c20f872e-b5ec-48e0-abbc-c6bae6f8d039" name="Default Changelist" comment="" />
+    <list default="true" id="c20f872e-b5ec-48e0-abbc-c6bae6f8d039" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/trydjango/templates/home.html" beforeDir="false" afterPath="$PROJECT_DIR$/trydjango/templates/home.html" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -10,8 +32,8 @@
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
-        <option value="HTML File" />
         <option value="CSS File" />
+        <option value="HTML File" />
       </list>
     </option>
   </component>
@@ -44,6 +66,7 @@
   </component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/trydjango/templates/css" />
       <recent name="$PROJECT_DIR$/trydjango/templates" />
     </key>
   </component>
@@ -100,14 +123,32 @@
       <workItem from="1606135306202" duration="739000" />
       <workItem from="1606221951971" duration="4178000" />
       <workItem from="1606329994628" duration="2797000" />
-      <workItem from="1606333690530" duration="355000" />
+      <workItem from="1606333690530" duration="1078000" />
+      <workItem from="1606471370160" duration="7000" />
+      <workItem from="1606472128595" duration="58000" />
+      <workItem from="1606472196385" duration="10275000" />
     </task>
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
   </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
   <component name="WindowStateProjectService">
+    <state x="220" y="25" width="1000" height="808" key="#Plugins" timestamp="1606472186341">
+      <screen x="0" y="25" width="1440" height="808" />
+    </state>
+    <state x="220" y="25" width="1000" height="808" key="#Plugins/-1600.25.1600.875/0.25.1440.808@0.25.1440.808" timestamp="1606472186341" />
     <state x="181" y="79" width="1079" height="725" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1605714940452">
       <screen x="0" y="25" width="1440" height="804" />
     </state>
@@ -116,6 +157,10 @@
       <screen x="0" y="25" width="1440" height="805" />
     </state>
     <state x="373" y="216" key="#com.intellij.fileTypes.FileTypeChooser/-1600.25.1600.875/0.25.1440.805@0.25.1440.805" timestamp="1605619549362" />
+    <state x="393" y="120" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog" timestamp="1606480875839">
+      <screen x="0" y="25" width="1440" height="804" />
+    </state>
+    <state x="393" y="120" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog/-1600.25.1600.875/0.25.1440.804@0.25.1440.804" timestamp="1606480875839" />
     <state width="1388" height="191" key="GridCell.Tab.0.bottom" timestamp="1605730549948">
       <screen x="0" y="25" width="1440" height="805" />
     </state>
