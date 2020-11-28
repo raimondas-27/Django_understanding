@@ -1,0 +1,19 @@
+body {
+    padding-top: 60px;
+}
+.faq_question {
+    margin: 0px;
+    color: red;
+    padding: 20px 0px 0px 70px;
+    display: inline-block;
+    cursor: pointer;
+    font-weight: bold;
+}
+
+.faq_answer_container {
+    margin: 0px;
+    padding: 20px 0px 0px 70px;
+    display: inline-block;
+    cursor: pointer;
+    font-weight: bold;
+}
